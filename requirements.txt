@@ -1,0 +1,2 @@
+Need a word2vec model downloaded in your computer.
+Need some complonents of nltk for text preprocessing
